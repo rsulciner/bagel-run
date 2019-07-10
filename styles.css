@@ -208,3 +208,9 @@ p{
   color: #29381E;
   font-family: 'DM Serif Display', serif;
 }
+
+@media screen and (max-width:750px){
+  img{
+    width: 50%;
+  }
+}
