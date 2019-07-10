@@ -1,0 +1,210 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: #C3D3E8;
+  /* display: inline-block; */
+}
+
+/* .row1{
+  width: 24%;
+  border: .2%;
+} */
+
+.title{
+  color: #29381E;
+  font-family: 'DM Serif Display', serif;
+  height: 20%;
+}
+
+#nightbefore{
+  width: 24%;
+  margin: .2%;
+}
+
+#drive{
+  width: 24%;
+  margin: .2px;
+}
+
+#bagel1{
+  width: 24%;
+  margin: .2px;
+}
+
+#lev{
+  width: 24%;
+  margin: .2px;
+}
+
+#marliandrachel{
+  width: 24%;
+  margin: .2px;
+}
+
+#sasha{
+  width: 24%;
+  margin: .2px;
+}
+
+#snacks{
+  width: 24%;
+  margin: .2px;
+}
+
+#hike{
+  width: 24%;
+  margin: .2px;
+}
+
+ #hike2{
+  width: 24%;
+  margin: .2px;
+  transform: rotate(270deg);
+}
+
+#rachel{
+  width: 24%;
+  margin: .2px;
+}
+
+#sign{
+  width: 24%;
+  margin: .2px;
+}
+
+#smile{
+  width: 24%;
+  margin: .2px;
+  transform: rotate(270deg);
+}
+
+#ava{
+  width: 24%;
+  margin: .2px;
+}
+
+#yellow{
+  width: 24%;
+  margin: .2px;
+}
+
+#sol{
+  width: 24%;
+  height:24%;
+  object-fit: cover;
+  margin: .2px;
+}
+
+#sol2{
+  width: 24%;
+  margin: .2px;
+}
+
+#shoes{
+  width: 24%;
+  margin: .2px;
+}
+
+#love{
+  width: 24%;
+  margin: .2px;
+}
+
+#money{
+  width: 24%;
+  margin: .2px;
+}
+
+#cash{
+  width: 24%;
+  margin: .2px;
+}
+
+#finger{
+  width: 24%;
+  margin: .2px;
+}
+
+#bird{
+  width: 24%;
+  margin: .2px;
+}
+
+#group{
+  width: 24%;
+  margin: .2px;
+}
+
+#bagel{
+  width: 24%;
+  margin: .2px;
+}
+
+#group2{
+  width: 24%;
+  margin: .2px;
+}
+
+#braids{
+  width: 24%;
+  margin: .2px;
+}
+
+#rachel3{
+  width: 24%;
+  margin: .2px;
+}
+
+#perch{
+  width: 24%;
+  margin: .2px;
+}
+
+#rachel4{
+  width: 24%;
+  margin: .2px;
+}
+
+#sid{
+  width: 24%;
+  margin: .2px;
+}
+
+#hd{
+  width: 24%;
+  margin: .2px;
+}
+
+#ilana{
+  width: 24%;
+  margin: .2px;
+}
+
+#walk{
+  width: 24%;
+  margin: .2px;
+}
+
+#thumbs{
+  width: 24%;
+  margin: .2px;
+}
+
+#gat{
+  width: 24%;
+  margin: .2px;
+}
+
+#bagel3{
+  width: 24%;
+  margin: .2px;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  color: #29381E;
+  font-family: 'DM Serif Display', serif;
+}
